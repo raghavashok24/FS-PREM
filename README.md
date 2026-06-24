@@ -19,7 +19,7 @@ For the full project writeup — architecture, ML contributions, results tables,
   title     = {FS-PREM: A Physics-Aware Framework for Predicting Port Disruption},
   author    = {Ashok, Shriraghav},
   booktitle = {IEEE International Conference on Data Mining (ICDM)},
-  year      = {2026},
+  year      = {2025},
   note      = {Horizon Labs, Future Impact Initiative}
 }
 ```
